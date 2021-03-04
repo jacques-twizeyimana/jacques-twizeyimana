@@ -16,9 +16,6 @@ Reach me
 2. [GitHub](https://github.com/jtwizeyimana)
 3. [Linked In](https://www.linkedin.com/in/jacques-twizeyimana-063a29181/)
 4. [Facebook](https://www.facebook.com/jacquessmith.sandber.5/)
-
- 
-[](Follow me on Twitter)
 ______________________________________________________________________________________________________
 ![](https://github-readme-stats.vercel.app/api?username=jtwizeyimana&show_icons=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jtwizeyimana&langs_count=10&layout=compact&count_private=true)
