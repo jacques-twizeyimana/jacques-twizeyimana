@@ -9,7 +9,7 @@
  
  💬 Ask me about software.
  
-** 📫 How to reach me:**
+[https://twitter.com/JacquesSandberg](Follow me on Twitter)
 ______________________________________________________________________________________________________
 ![](https://github-readme-stats.vercel.app/api?username=jtwizeyimana&show_icons=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jtwizeyimana&langs_count=10&layout=compact&count_private=true)
