@@ -9,7 +9,7 @@
  
  💬 Ask me about software.
  
-__ 📫 How to reach me:__
+** 📫 How to reach me:**
 ______________________________________________________________________________________________________
 ![](https://github-readme-stats.vercel.app/api?username=jtwizeyimana&show_icons=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jtwizeyimana&langs_count=10&layout=compact&count_private=true)
