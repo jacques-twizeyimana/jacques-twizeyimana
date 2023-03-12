@@ -1,15 +1,7 @@
-### I'm Jacques
+### The Sandberg
 <!--
 **jtwizeyimana/jtwizeyimana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
- 🔭 I’m currently working on eCommerce 
- 
- 🌱 I’m currently learning Java and  SpringBoot
- 
- 💬 Ask me about software.
- 
- 
 Reach me
 
 1. [GitHub](https://github.com/jacques-twizeyimana)
