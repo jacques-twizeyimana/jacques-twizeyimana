@@ -1,36 +1,39 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Hi, I'm Jacques Twizeyimana
 
-## Getting Started
+Senior Frontend Engineer based in Kigali, Rwanda. I build performant, accessible web applications and lead engineering teams to ship high-quality software.
 
-First, run the development server:
+Currently at **PivotAccess Ltd**, where I lead a team of frontend developers building production-grade applications with React, Next.js, and TypeScript.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## What I do
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Architect and build scalable frontend applications
+- Lead and mentor engineering teams
+- Design CI/CD pipelines and streamline deployment workflows
+- Integrate REST and GraphQL APIs with responsive, accessible interfaces
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Tech I work with
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+**Frontend:** React, Next.js, Angular, TypeScript, Tailwind CSS
 
-## Learn More
+**Backend:** Node.js, Express, Nest.js, Java, Spring Boot, Python, Django, PHP, Laravel
 
-To learn more about Next.js, take a look at the following resources:
+**Data:** GraphQL, PostgreSQL, MongoDB, MySQL
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+**DevOps:** Git, Docker, Linux, GitLab CI/CD, Jest, Cypress
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Experience
 
-## Deploy on Vercel
+**PivotAccess Ltd** - Senior Frontend Developer (2023 - Present)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**Grade Arc** - Software Engineer (2021 - 2023)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**Yombi Labs Ltd** - Software Engineer (2019 - 2021)
+
+## Education
+
+**The African Leadership University** - B.Eng, Computer Software Engineering (2024)
+
+## Get in touch
+
+- twizojacques@gmail.com
+- [LinkedIn](https://linkedin.com/in/twizeyimana-jacques)
